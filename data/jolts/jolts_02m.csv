@@ -1,0 +1,20 @@
+data_level_1,data_level_2,data_level_3,May 2019,Jan 2020,Feb 2020,Mar 2020,Apr 2020,May 2020
+Private,Mining and logging,Mining and logging,28,20,25,19,13,15
+Private,Construction,Construction,386,435,390,389,246,673
+Private,Manufacturing,Durable goods,191,174,196,159,161,167
+Private,Manufacturing,Nondurable goods,149,137,138,140,166,259
+Private,"Trade, transportation, and utilities",Wholesale trade,164,138,153,136,117,141
+Private,"Trade, transportation, and utilities",Retail trade,766,818,812,764,723,805
+Private,"Trade, transportation, and utilities","Transportation, warehousing, and utilities",239,264,256,237,185,254
+Private,Information,Information,106,86,96,74,39,61
+Private,Financial activities,Finance and insurance,138,142,161,151,129,98
+Private,Financial activities,Real estate and rental and leasing,84,75,81,67,34,83
+Private,Professional and business services,Professional and business services,1132,1163,1104,1103,800,867
+Private,Education and health services,Educational services,100,109,95,92,69,84
+Private,Education and health services,Health care and social assistance,578,644,667,571,477,956
+Private,Leisure and hospitality,"Arts, entertainment, and recreation",165,176,168,127,31,122
+Private,Leisure and hospitality,Accommodation and food services,898,949,923,546,460,1223
+Private,Other services,Other services,219,210,224,168,165,436
+Government,Federal,Federal,35,45,51,58,46,41
+Government,State and local,State and local education,155,173,157,153,111,132
+Government,State and local,"State and local, excluding education",154,163,167,156,78,70

@@ -1,0 +1,57 @@
+﻿"Table 2.6. Personal Income and Its Disposition, Monthly",,,,,,,,,,,,,,,,,,,
+[Billions of dollars; months are seasonally adjusted at annual rates],,,,,,,,,,,,,,,,,,,
+Bureau of Economic Analysis,,,,,,,,,,,,,,,,,,,
+"Last Revised on: July 31, 2020 - Next Release Date August 28, 2020",,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Line,,2019,,,,,,,,,,,,2020,,,,,
+,,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,JAN,FEB,MAR,APR,MAY,JUN
+1,Personal income,18303.5,18370,18426.7,18459.1,18474.2,18509.4,18531.1,18616.6,18645.1,18693.6,18788.3,18800.5,18975.3,19119.7,18767.5,21037.9,20103.1,19880.3
+2,    Compensation of employees,11270.4,11334.2,11401.2,11392.4,11380.5,11402.1,11402.2,11451.2,11460.4,11515.7,11575.1,11603.8,11717.1,11828.6,11488.5,10625.7,10889.1,11134.4
+3,        Wages and salaries,9169.4,9228,9288.5,9277.7,9264.6,9282.3,9280.2,9323.8,9329.9,9379.1,9431.8,9456.5,9563,9663,9362.4,8632.6,8859.7,9057.3
+4,            Private industries,7740,7795.8,7853.3,7838.5,7822.7,7836.3,7827.2,7864,7865.7,7912.8,7962.2,7984,8085.3,8180.5,7877.9,7195.7,7448,7640.8
+5,            Government,1429.4,1432.2,1435.2,1439.2,1441.9,1446,1453,1459.9,1464.3,1466.3,1469.7,1472.6,1477.7,1482.5,1484.4,1436.9,1411.7,1416.6
+6,        Supplements to wages and salaries,2101,2106.2,2112.7,2114.7,2115.8,2119.8,2122,2127.4,2130.5,2136.6,2143.2,2147.2,2154.1,2165.5,2126.1,1993,2029.4,2077.1
+7,            Employer contributions for employee pension and insurance funds1,1460.7,1462.2,1464.6,1467.5,1469.6,1472.4,1475,1477.6,1480.4,1483.1,1486.3,1488.8,1486.3,1491,1469.6,1372.1,1390.4,1427.3
+8,            Employer contributions for government social insurance,640.3,644.1,648.1,647.2,646.3,647.4,647,649.8,650.1,653.4,656.9,658.4,667.7,674.5,656.5,621,639,649.8
+9,    Proprietors' income with inventory valuation and capital consumption adjustments,1634.2,1631.8,1616.6,1622,1629.7,1633.8,1649.7,1686.1,1695.2,1679.9,1717.6,1695.5,1719.1,1762.3,1636.6,1435,1465,1544.9
+10,        Farm,52.1,51.4,29,33.1,36.9,40.7,39.9,62.5,74.2,51.1,79.3,45.6,44.5,79.8,44.9,35.4,26.4,65.4
+11,        Nonfarm,1582.2,1580.4,1587.5,1588.9,1592.9,1593.1,1609.8,1623.5,1621,1628.8,1638.3,1649.9,1674.7,1682.5,1591.7,1399.6,1438.6,1479.5
+12,    Rental income of persons with capital consumption adjustment,773.4,776.8,779.7,783.4,786.8,789.9,789.9,789.7,789.4,792,795.3,799.3,800.8,802.3,803.9,801.6,800,796.6
+13,    Personal income receipts on assets,2951.5,2951.3,2949.3,2968,2972.9,2969.7,2968,2968,2974.2,2978.9,2978.6,2983.9,2990.1,2984.1,2978.8,2941.3,2901.2,2864.7
+14,        Personal interest income,1649.7,1648.9,1657.3,1675.1,1685.2,1687.4,1681.9,1680.4,1682.9,1689.3,1694,1697,1688.5,1679.8,1671,1650.2,1629.4,1608.5
+15,        Personal dividend income,1301.7,1302.4,1292,1292.9,1287.8,1282.3,1286.1,1287.6,1291.4,1289.6,1284.6,1286.9,1301.7,1304.4,1307.8,1291,1271.8,1256.2
+16,    Personal current transfer receipts,3074.9,3084.4,3096.5,3108.3,3117.7,3129.7,3136.4,3142.2,3147.1,3154.6,3155.9,3155,3203.8,3211.2,3291.4,6585.1,5431.6,4947.1
+17,        Government social benefits to persons,3027.1,3036.6,3048.8,3060.7,3070.2,3082.3,3089.1,3095.1,3100.2,3107.9,3109.4,3108.8,3157.9,3165.4,3245.7,6539.4,5385.8,4901.4
+18,            Social security2,1015.2,1018.9,1022.7,1024.1,1026.2,1029.9,1031.5,1034.1,1037.1,1045,1044.9,1039.2,1064.9,1067.2,1073.3,1075.2,1076.6,1078.6
+19,            Medicare3,762.8,767.4,771.8,775.9,779.8,783.4,786.8,790,792.9,795.6,798,800.2,802.1,804.5,807.3,810.6,828.7,832.9
+20,            Medicaid,594.5,599,604.5,610.3,615.2,619.5,621.8,622.7,622.2,619.8,618.7,619.6,615.8,620.8,635.7,660.9,677.6,686.1
+21,            Unemployment insurance,28,28.1,28,27.2,27.5,27.7,27.7,27.6,27.5,27.7,27.6,28.4,28.1,27.8,74.4,473.1,1306.3,1417
+22,            Veterans' benefits,126.3,127.4,128.3,128.8,129.6,130.9,131.2,131.9,132.7,133.1,134.5,136,137.4,138.6,139.8,140.8,142.2,143.2
+23,            Other,500.2,495.8,493.5,494.4,491.9,490.8,490.1,488.7,487.8,486.7,485.7,485.5,509.6,506.4,515.2,3378.8,1354.5,743.6
+24,"        Other current transfer receipts, from business (net)",47.8,47.8,47.7,47.6,47.5,47.4,47.3,47.1,46.9,46.7,46.5,46.2,46,45.8,45.8,45.8,45.8,45.8
+25,"    Less: Contributions for government social insurance, domestic",1400.9,1408.5,1416.5,1415,1413.4,1415.7,1415.1,1420.6,1421.2,1427.5,1434.2,1436.9,1455.7,1468.7,1431.6,1350.8,1383.8,1407.5
+26,Less: Personal current taxes,2146.5,2168.4,2197.2,2218.8,2225.7,2223,2201.1,2196.4,2193.9,2208,2222.9,2232.7,2258.3,2284.7,2227.3,2074.6,2109.4,2141.9
+27,Equals: Disposable personal income,16157,16201.6,16229.5,16240.3,16248.4,16286.5,16330,16420.2,16451.2,16485.6,16565.4,16567.8,16717.1,16835.1,16540.1,18963.3,17993.7,17738.4
+28,Less: Personal outlays,14786.6,14800.8,14937.2,15014.3,15068.1,15134.5,15188.4,15225.7,15245.7,15303.9,15329.4,15374.1,15448.1,15442.3,14419.3,12611.9,13633.2,14367.6
+29,    Personal consumption expenditures,14223.7,14236.1,14370,14443.2,14493,14555.8,14611.9,14650.9,14673.2,14728.5,14752.8,14796.3,14880.5,14877.4,13878.5,12088.8,13113.5,13851.2
+30,    Personal interest payments4,353.3,354.8,357.2,361.1,364.8,368.2,366.9,365.1,362.7,363.6,364.6,365.7,362.9,360.1,335.9,317.8,314.4,310.9
+31,    Personal current transfer payments,209.6,209.9,210.1,210.1,210.3,210.5,209.5,209.7,209.9,211.9,212,212.1,204.8,204.9,205,205.2,205.4,205.5
+32,        To government,114,114.2,114.5,114.7,114.9,115.2,115.4,115.5,115.7,115.9,116,116.1,112.1,112.2,112.3,112.3,112.5,112.6
+33,        To the rest of the world (net),95.6,95.6,95.6,95.4,95.4,95.4,94.2,94.2,94.2,96,96,96,92.7,92.7,92.7,92.9,92.9,92.9
+34,Equals: Personal saving,1370.5,1400.7,1292.3,1226,1180.4,1152,1141.6,1194.5,1205.5,1181.6,1236,1193.7,1268.9,1392.7,2120.8,6351.5,4360.5,3370.8
+35,    Personal saving as a percentage of disposable personal income,8.5,8.6,8,7.5,7.3,7.1,7,7.3,7.3,7.2,7.5,7.2,7.6,8.3,12.8,33.5,24.2,19
+,Addenda:,,,,,,,,,,,,,,,,,,
+36,"    Personal income excluding current transfer receipts, billions of chained (2012) dollars5",13988.1,14023.8,14032.5,14005.6,13996.6,14001.4,13990.4,14053.5,14068.3,14078.6,14152.5,14127.4,14220.1,14331.3,13979.1,13124.6,13307.8,13495.3
+,    Disposable personal income:,,,,,,,,,,,,,,,,,,
+37,"        Total, billions of chained (2012) dollars5",14840.9,14864.1,14855.7,14817.2,14809.6,14826.8,14840.3,14912.4,14933.6,14936.2,14997.2,14960.2,15072.6,15166,14940.3,17220.6,16321.1,16030.5
+,        Per capita:,,,,,,,,,,,,,,,,,,
+38,            Current dollars,49286,49407,49477,49492,49498,49593,49702,49950,50019,50100,50321,50310,50747,51089,50177,57506,54544,53747
+39,            Chained (2012) dollars,45271,45328,45288,45155,45114,45148,45168,45364,45405,45391,45558,45428,45755,46024,45323,52222,49474,48572
+40,"    Population (midperiod, thousands)6",327824,327921,328025,328140,328267,328404,328561,328730,328897,329054,329191,329314,329423,329527,329638,329760,329894,330038
+Legend / Footnotes:,,,,,,,,,,,,,,,,,,,
+1. Includes actual employer contributions and actuarially imputed employer contributions to reflect benefits accrued by defined benefit pension plan participants through service to employers in the current period.,,,,,,,,,,,,,,,,,,,
+"2. Social security benefits include old-age, survivors, and disability insurance benefits that are distributed from the federal old-age and survivors insurance trust fund and the disability insurance trust fund.",,,,,,,,,,,,,,,,,,,
+3. Medicare benefits include hospital and supplementary medical insurance benefits that are distributed from the federal hospital insurance trust fund and the supplementary medical insurance trust fund.,,,,,,,,,,,,,,,,,,,
+4. Consists of nonmortgage interest paid by households.  Note that mortgage interest paid by households is an expense item in the calculation of rental income of persons.,,,,,,,,,,,,,,,,,,,
+5. The current-dollar measure is deflated by the implicit price deflator for personal consumption expenditures.,,,,,,,,,,,,,,,,,,,
+"6. Population is the total population of the United States, including the Armed Forces overseas and the institutionalized population. The monthly estimate is the average of estimates for the first of the month and the first of the following month; the annual and quarterly estimates are averages of the monthly estimates.",,,,,,,,,,,,,,,,,,,

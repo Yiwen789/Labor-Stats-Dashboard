@@ -1,0 +1,20 @@
+data_level_1,data_level_2,data_level_3,May 2019,Apr 2020,May 2020
+Private,Mining and logging,Mining and logging,1,2,2
+Private,Construction,Construction,10,40,10
+Private,Manufacturing,Durable goods,12,15,13
+Private,Manufacturing,Nondurable goods,6,8,10
+Private,"Trade, transportation, and utilities",Wholesale trade,5,9,9
+Private,"Trade, transportation, and utilities",Retail trade,39,17,16
+Private,"Trade, transportation, and utilities","Transportation, warehousing, and utilities",14,18,17
+Private,Information,Information,5,3,5
+Private,Financial activities,Finance and insurance,23,13,7
+Private,Financial activities,Real estate and rental and leasing,2,10,5
+Private,Professional and business services,Professional and business services,38,111,69
+Private,Education and health services,Educational services,7,6,10
+Private,Education and health services,Health care and social assistance,40,43,40
+Private,Leisure and hospitality,"Arts, entertainment, and recreation",3,3,1
+Private,Leisure and hospitality,Accommodation and food services,26,9,14
+Private,Other services,Other services,5,7,4
+Government,Federal,Federal,10,10,10
+Government,State and local,State and local education,32,13,30
+Government,State and local,"State and local, excluding education",21,29,19

@@ -1,0 +1,896 @@
+date,revenue,ticker,sector
+6/30/2020,1924000.0,EMN,Materials
+3/31/2020,2241000.0,EMN,Materials
+12/31/2019,2205000.0,EMN,Materials
+9/30/2019,2325000.0,EMN,Materials
+6/30/2019,2363000.0,EMN,Materials
+3/31/2019,2380000.0,EMN,Materials
+12/31/2018,2376000.0,EMN,Materials
+9/30/2018,2547000.0,EMN,Materials
+6/30/2018,2621000.0,EMN,Materials
+3/31/2018,2607000.0,EMN,Materials
+12/31/2017,2362000.0,EMN,Materials
+9/30/2017,2465000.0,EMN,Materials
+6/30/2017,2419000.0,EMN,Materials
+3/31/2017,2303000.0,EMN,Materials
+12/31/2016,2188000.0,EMN,Materials
+9/30/2016,2287000.0,EMN,Materials
+6/30/2016,2297000.0,EMN,Materials
+3/31/2016,2236000.0,EMN,Materials
+12/31/2015,2225000.0,EMN,Materials
+9/30/2015,2447000.0,EMN,Materials
+6/30/2015,2533000.0,EMN,Materials
+3/31/2015,2443000.0,EMN,Materials
+3/31/2020,-9010000.0,VALE,Materials
+12/31/2019,96679000.0,VALE,Materials
+9/30/2019,75898000.0,VALE,Materials
+6/30/2019,73646000.0,VALE,Materials
+3/31/2019,81000000.0,VALE,Materials
+12/31/2018,28206000.0,VALE,Materials
+9/30/2018,78156000.0,VALE,Materials
+6/30/2018,68562000.0,VALE,Materials
+3/31/2018,50458000.0,VALE,Materials
+12/31/2017,58907000.0,VALE,Materials
+9/30/2017,60525000.0,VALE,Materials
+6/30/2017,57518000.0,VALE,Materials
+3/31/2017,65187000.0,VALE,Materials
+12/31/2016,57673000.0,VALE,Materials
+9/30/2016,59068000.0,VALE,Materials
+6/30/2016,54460000.0,VALE,Materials
+3/31/2016,52403000.0,VALE,Materials
+12/31/2015,51820000.0,VALE,Materials
+9/30/2015,58989000.0,VALE,Materials
+6/30/2015,51368000.0,VALE,Materials
+3/31/2015,48644000.0,VALE,Materials
+6/30/2020,2685700.0,ECL,Materials
+3/31/2020,3581400.0,ECL,Materials
+12/31/2019,3823600.0,ECL,Materials
+9/30/2019,3817900.0,ECL,Materials
+6/30/2019,3759400.0,ECL,Materials
+3/31/2019,3505400.0,ECL,Materials
+12/31/2018,3760500.0,ECL,Materials
+9/30/2018,3747200.0,ECL,Materials
+6/30/2018,3689600.0,ECL,Materials
+3/31/2018,3470900.0,ECL,Materials
+12/31/2017,3650700.0,ECL,Materials
+9/30/2017,3563300.0,ECL,Materials
+6/30/2017,3462700.0,ECL,Materials
+3/31/2017,3161600.0,ECL,Materials
+12/31/2016,3352100.0,ECL,Materials
+9/30/2016,3386100.0,ECL,Materials
+6/30/2016,3317200.0,ECL,Materials
+3/31/2016,3097400.0,ECL,Materials
+12/31/2015,3412000.0,ECL,Materials
+9/30/2015,3446400.0,ECL,Materials
+6/30/2015,3389100.0,ECL,Materials
+3/31/2015,3297600.0,ECL,Materials
+6/30/2020,11807000.0,BA,Industrials
+3/31/2020,16908000.0,BA,Industrials
+12/31/2019,17911000.0,BA,Industrials
+9/30/2019,19980000.0,BA,Industrials
+6/30/2019,15751000.0,BA,Industrials
+3/31/2019,22917000.0,BA,Industrials
+12/31/2018,28341000.0,BA,Industrials
+9/30/2018,25146000.0,BA,Industrials
+6/30/2018,24258000.0,BA,Industrials
+3/31/2018,23382000.0,BA,Industrials
+12/31/2017,25368000.0,BA,Industrials
+9/30/2017,24309000.0,BA,Industrials
+6/30/2017,22739000.0,BA,Industrials
+3/31/2017,20976000.0,BA,Industrials
+12/31/2016,23286000.0,BA,Industrials
+9/30/2016,23898000.0,BA,Industrials
+6/30/2016,24755000.0,BA,Industrials
+3/31/2016,22632000.0,BA,Industrials
+12/31/2015,23573000.0,BA,Industrials
+9/30/2015,25849000.0,BA,Industrials
+6/30/2015,24543000.0,BA,Industrials
+3/31/2015,22149000.0,BA,Industrials
+6/30/2020,16220000.0,LMT,Industrials
+3/31/2020,15651000.0,LMT,Industrials
+12/31/2019,15878000.0,LMT,Industrials
+9/30/2019,15171000.0,LMT,Industrials
+6/30/2019,14427000.0,LMT,Industrials
+3/31/2019,14336000.0,LMT,Industrials
+12/31/2018,14411000.0,LMT,Industrials
+9/30/2018,14318000.0,LMT,Industrials
+6/30/2018,13398000.0,LMT,Industrials
+3/31/2018,11635000.0,LMT,Industrials
+12/31/2017,15137000.0,LMT,Industrials
+9/30/2017,12169000.0,LMT,Industrials
+6/30/2017,12685000.0,LMT,Industrials
+3/31/2017,11057000.0,LMT,Industrials
+12/31/2016,,LMT,Industrials
+9/30/2016,,LMT,Industrials
+6/30/2016,12914000.0,LMT,Industrials
+3/31/2016,11702000.0,LMT,Industrials
+12/31/2015,12917000.0,LMT,Industrials
+9/30/2015,11461000.0,LMT,Industrials
+6/30/2015,11643000.0,LMT,Industrials
+3/31/2015,10111000.0,LMT,Industrials
+6/30/2020,17750000.0,GE,Industrials
+3/31/2020,20523000.0,GE,Industrials
+12/31/2019,26238000.0,GE,Industrials
+9/30/2019,23360000.0,GE,Industrials
+6/30/2019,28830000.0,GE,Industrials
+3/31/2019,27286000.0,GE,Industrials
+12/31/2018,33279000.0,GE,Industrials
+9/30/2018,29574000.0,GE,Industrials
+6/30/2018,30104000.0,GE,Industrials
+3/31/2018,28660000.0,GE,Industrials
+12/31/2017,32389000.0,GE,Industrials
+9/30/2017,31327000.0,GE,Industrials
+6/30/2017,29261000.0,GE,Industrials
+3/31/2017,27492000.0,GE,Industrials
+12/31/2016,32468000.0,GE,Industrials
+9/30/2016,29038000.0,GE,Industrials
+6/30/2016,30344000.0,GE,Industrials
+3/31/2016,27836000.0,GE,Industrials
+12/31/2015,23519000.0,GE,Industrials
+9/30/2015,31511000.0,GE,Industrials
+6/30/2015,31974000.0,GE,Industrials
+3/31/2015,29214000.0,GE,Industrials
+6/30/2020,9997000.0,CAT,Industrials
+3/31/2020,10635000.0,CAT,Industrials
+12/31/2019,13144000.0,CAT,Industrials
+9/30/2019,12758000.0,CAT,Industrials
+6/30/2019,14432000.0,CAT,Industrials
+3/31/2019,13466000.0,CAT,Industrials
+12/31/2018,14342000.0,CAT,Industrials
+9/30/2018,13510000.0,CAT,Industrials
+6/30/2018,14011000.0,CAT,Industrials
+3/31/2018,12859000.0,CAT,Industrials
+12/31/2017,12896000.0,CAT,Industrials
+9/30/2017,11413000.0,CAT,Industrials
+6/30/2017,11331000.0,CAT,Industrials
+3/31/2017,9822000.0,CAT,Industrials
+12/31/2016,9574000.0,CAT,Industrials
+9/30/2016,9160000.0,CAT,Industrials
+6/30/2016,10342000.0,CAT,Industrials
+3/31/2016,9461000.0,CAT,Industrials
+12/31/2015,11030000.0,CAT,Industrials
+9/30/2015,10962000.0,CAT,Industrials
+6/30/2015,12317000.0,CAT,Industrials
+3/31/2015,12702000.0,CAT,Industrials
+6/30/2020,22326000.0,BAC,Financials
+3/31/2020,22767000.0,BAC,Financials
+12/31/2019,22349000.0,BAC,Financials
+9/30/2019,22807000.0,BAC,Financials
+6/30/2019,23084000.0,BAC,Financials
+3/31/2019,23004000.0,BAC,Financials
+12/31/2018,22736000.0,BAC,Financials
+9/30/2018,22777000.0,BAC,Financials
+6/30/2018,22609000.0,BAC,Financials
+3/31/2018,23125000.0,BAC,Financials
+12/31/2017,20436000.0,BAC,Financials
+9/30/2017,21839000.0,BAC,Financials
+6/30/2017,22829000.0,BAC,Financials
+3/31/2017,22248000.0,BAC,Financials
+12/31/2016,19990000.0,BAC,Financials
+9/30/2016,21635000.0,BAC,Financials
+6/30/2016,20398000.0,BAC,Financials
+3/31/2016,19512000.0,BAC,Financials
+12/31/2015,19490000.0,BAC,Financials
+9/30/2015,20713000.0,BAC,Financials
+6/30/2015,22029000.0,BAC,Financials
+3/31/2015,21175000.0,BAC,Financials
+6/30/2020,5261000.0,PYPL,Financials
+3/31/2020,4618000.0,PYPL,Financials
+12/31/2019,4961000.0,PYPL,Financials
+9/30/2019,4378000.0,PYPL,Financials
+6/30/2019,4305000.0,PYPL,Financials
+3/31/2019,4128000.0,PYPL,Financials
+12/31/2018,4226000.0,PYPL,Financials
+9/30/2018,3683000.0,PYPL,Financials
+6/30/2018,3857000.0,PYPL,Financials
+3/31/2018,3685000.0,PYPL,Financials
+12/31/2017,3744000.0,PYPL,Financials
+9/30/2017,3239000.0,PYPL,Financials
+6/30/2017,3136000.0,PYPL,Financials
+3/31/2017,2975000.0,PYPL,Financials
+12/31/2016,2981000.0,PYPL,Financials
+9/30/2016,2667000.0,PYPL,Financials
+6/30/2016,2650000.0,PYPL,Financials
+3/31/2016,2544000.0,PYPL,Financials
+12/31/2015,2556000.0,PYPL,Financials
+9/30/2015,2258000.0,PYPL,Financials
+6/30/2015,2297000.0,PYPL,Financials
+3/31/2015,2137000.0,PYPL,Financials
+6/30/2020,5261000.0,PYPL,Financials
+3/31/2020,4618000.0,PYPL,Financials
+12/31/2019,4961000.0,PYPL,Financials
+9/30/2019,4378000.0,PYPL,Financials
+6/30/2019,4305000.0,PYPL,Financials
+3/31/2019,4128000.0,PYPL,Financials
+12/31/2018,4226000.0,PYPL,Financials
+9/30/2018,3683000.0,PYPL,Financials
+6/30/2018,3857000.0,PYPL,Financials
+3/31/2018,3685000.0,PYPL,Financials
+12/31/2017,3744000.0,PYPL,Financials
+9/30/2017,3239000.0,PYPL,Financials
+6/30/2017,3136000.0,PYPL,Financials
+3/31/2017,2975000.0,PYPL,Financials
+12/31/2016,2981000.0,PYPL,Financials
+9/30/2016,2667000.0,PYPL,Financials
+6/30/2016,2650000.0,PYPL,Financials
+3/31/2016,2544000.0,PYPL,Financials
+12/31/2015,2556000.0,PYPL,Financials
+9/30/2015,2258000.0,PYPL,Financials
+6/30/2015,2297000.0,PYPL,Financials
+3/31/2015,2137000.0,PYPL,Financials
+6/30/2020,32277000.0,XOM,Energy
+3/31/2020,55134000.0,XOM,Energy
+12/31/2019,63024000.0,XOM,Energy
+9/30/2019,63422000.0,XOM,Energy
+6/30/2019,67491000.0,XOM,Energy
+3/31/2019,61646000.0,XOM,Energy
+12/31/2018,68253000.0,XOM,Energy
+9/30/2018,74187000.0,XOM,Energy
+6/30/2018,71456000.0,XOM,Energy
+3/31/2018,65436000.0,XOM,Energy
+12/31/2017,50832000.0,XOM,Energy
+9/30/2017,64415000.0,XOM,Energy
+6/30/2017,60825000.0,XOM,Energy
+3/31/2017,61090000.0,XOM,Energy
+12/31/2016,58376000.0,XOM,Energy
+9/30/2016,56767000.0,XOM,Energy
+6/30/2016,56360000.0,XOM,Energy
+3/31/2016,47105000.0,XOM,Energy
+12/31/2015,57691000.0,XOM,Energy
+9/30/2015,65679000.0,XOM,Energy
+6/30/2015,71360000.0,XOM,Energy
+3/31/2015,64758000.0,XOM,Energy
+6/30/2020,5356000.0,SLB,Energy
+3/31/2020,7455000.0,SLB,Energy
+12/31/2019,8228000.0,SLB,Energy
+9/30/2019,8541000.0,SLB,Energy
+6/30/2019,8269000.0,SLB,Energy
+3/31/2019,7879000.0,SLB,Energy
+12/31/2018,8179000.0,SLB,Energy
+9/30/2018,8504000.0,SLB,Energy
+6/30/2018,8303000.0,SLB,Energy
+3/31/2018,7829000.0,SLB,Energy
+12/31/2017,8179000.0,SLB,Energy
+9/30/2017,7905000.0,SLB,Energy
+6/30/2017,7462000.0,SLB,Energy
+3/31/2017,6894000.0,SLB,Energy
+12/31/2016,7107000.0,SLB,Energy
+9/30/2016,7019000.0,SLB,Energy
+6/30/2016,7164000.0,SLB,Energy
+3/31/2016,6520000.0,SLB,Energy
+12/31/2015,7744000.0,SLB,Energy
+9/30/2015,8472000.0,SLB,Energy
+6/30/2015,9010000.0,SLB,Energy
+3/31/2015,10248000.0,SLB,Energy
+6/30/2020,379053.0,KMI,Energy
+3/31/2020,483084.0,KMI,Energy
+12/31/2019,505080.0,KMI,Energy
+9/30/2019,518088.0,KMI,Energy
+6/30/2019,603949.0,KMI,Energy
+3/31/2019,597204.0,KMI,Energy
+12/31/2018,587394.0,KMI,Energy
+9/30/2018,586687.0,KMI,Energy
+6/30/2018,646119.0,KMI,Energy
+3/31/2018,607936.0,KMI,Energy
+12/31/2017,571345.0,KMI,Energy
+9/30/2017,542454.0,KMI,Energy
+6/30/2017,565025.0,KMI,Energy
+3/31/2017,528630.0,KMI,Energy
+12/31/2016,487573.0,KMI,Energy
+9/30/2016,477140.0,KMI,Energy
+6/30/2016,521224.0,KMI,Energy
+3/31/2016,497837.0,KMI,Energy
+12/31/2015,524021.0,KMI,Energy
+9/30/2015,555354.0,KMI,Energy
+6/30/2015,637652.0,KMI,Energy
+3/31/2015,638970.0,KMI,Energy
+6/30/2020,3196000.0,HAL,Energy
+3/31/2020,5037000.0,HAL,Energy
+12/31/2019,5191000.0,HAL,Energy
+9/30/2019,5550000.0,HAL,Energy
+6/30/2019,5930000.0,HAL,Energy
+3/31/2019,5737000.0,HAL,Energy
+12/31/2018,5936000.0,HAL,Energy
+9/30/2018,6172000.0,HAL,Energy
+6/30/2018,6147000.0,HAL,Energy
+3/31/2018,5740000.0,HAL,Energy
+12/31/2017,5940000.0,HAL,Energy
+9/30/2017,5444000.0,HAL,Energy
+6/30/2017,4957000.0,HAL,Energy
+3/31/2017,4279000.0,HAL,Energy
+12/31/2016,4021000.0,HAL,Energy
+9/30/2016,3833000.0,HAL,Energy
+6/30/2016,3835000.0,HAL,Energy
+3/31/2016,4198000.0,HAL,Energy
+12/31/2015,5082000.0,HAL,Energy
+9/30/2015,5582000.0,HAL,Energy
+6/30/2015,5919000.0,HAL,Energy
+3/31/2015,7050000.0,HAL,Energy
+5/31/2020,740000.0,CCL,Consumer discretionary
+2/29/2020,4790000.0,CCL,Consumer discretionary
+11/30/2019,4781000.0,CCL,Consumer discretionary
+8/31/2019,6532000.0,CCL,Consumer discretionary
+5/31/2019,4838000.0,CCL,Consumer discretionary
+2/28/2019,4674000.0,CCL,Consumer discretionary
+11/30/2018,4456000.0,CCL,Consumer discretionary
+8/31/2018,5836000.0,CCL,Consumer discretionary
+5/31/2018,4357000.0,CCL,Consumer discretionary
+2/28/2018,4232000.0,CCL,Consumer discretionary
+11/30/2017,4259000.0,CCL,Consumer discretionary
+8/31/2017,5515000.0,CCL,Consumer discretionary
+5/31/2017,3945000.0,CCL,Consumer discretionary
+2/28/2017,3791000.0,CCL,Consumer discretionary
+11/30/2016,3935000.0,CCL,Consumer discretionary
+8/31/2016,5097000.0,CCL,Consumer discretionary
+5/31/2016,3705000.0,CCL,Consumer discretionary
+2/29/2016,3651000.0,CCL,Consumer discretionary
+11/30/2015,3711000.0,CCL,Consumer discretionary
+8/31/2015,4883000.0,CCL,Consumer discretionary
+5/31/2015,3590000.0,CCL,Consumer discretionary
+2/28/2015,3531000.0,CCL,Consumer discretionary
+6/30/2020,459282.0,GRUB,Consumer discretionary
+3/31/2020,362980.0,GRUB,Consumer discretionary
+12/31/2019,341270.0,GRUB,Consumer discretionary
+9/30/2019,322053.0,GRUB,Consumer discretionary
+6/30/2019,325058.0,GRUB,Consumer discretionary
+3/31/2019,323770.0,GRUB,Consumer discretionary
+12/31/2018,287721.0,GRUB,Consumer discretionary
+9/30/2018,247225.0,GRUB,Consumer discretionary
+6/30/2018,239741.0,GRUB,Consumer discretionary
+3/31/2018,232570.0,GRUB,Consumer discretionary
+12/31/2017,205080.0,GRUB,Consumer discretionary
+9/30/2017,163059.0,GRUB,Consumer discretionary
+6/30/2017,158794.0,GRUB,Consumer discretionary
+3/31/2017,156134.0,GRUB,Consumer discretionary
+12/31/2016,137457.0,GRUB,Consumer discretionary
+9/30/2016,123461.0,GRUB,Consumer discretionary
+6/30/2016,120173.0,GRUB,Consumer discretionary
+3/31/2016,112240.0,GRUB,Consumer discretionary
+12/31/2015,99959.0,GRUB,Consumer discretionary
+9/30/2015,85662.0,GRUB,Consumer discretionary
+6/30/2015,87955.0,GRUB,Consumer discretionary
+3/31/2015,88249.0,GRUB,Consumer discretionary
+4/30/2020,651962.0,LULU,Consumer discretionary
+1/31/2020,1397491.0,LULU,Consumer discretionary
+10/31/2019,916138.0,LULU,Consumer discretionary
+7/31/2019,883352.0,LULU,Consumer discretionary
+4/30/2019,782315.0,LULU,Consumer discretionary
+1/31/2019,1167458.0,LULU,Consumer discretionary
+10/31/2018,747655.0,LULU,Consumer discretionary
+7/31/2018,723500.0,LULU,Consumer discretionary
+4/30/2018,649706.0,LULU,Consumer discretionary
+1/31/2018,928802.0,LULU,Consumer discretionary
+10/31/2017,619018.0,LULU,Consumer discretionary
+7/31/2017,581054.0,LULU,Consumer discretionary
+4/30/2017,520307.0,LULU,Consumer discretionary
+1/31/2017,789940.0,LULU,Consumer discretionary
+10/31/2016,544416.0,LULU,Consumer discretionary
+7/31/2016,514520.0,LULU,Consumer discretionary
+4/30/2016,495516.0,LULU,Consumer discretionary
+1/31/2016,704276.0,LULU,Consumer discretionary
+10/31/2015,479693.0,LULU,Consumer discretionary
+7/31/2015,453010.0,LULU,Consumer discretionary
+4/30/2015,423544.0,LULU,Consumer discretionary
+1/31/2015,602491.0,LULU,Consumer discretionary
+6/30/2020,254691.0,PRTY,Consumer discretionary
+3/31/2020,414043.0,PRTY,Consumer discretionary
+12/31/2019,731551.0,PRTY,Consumer discretionary
+9/30/2019,540231.0,PRTY,Consumer discretionary
+6/30/2019,563891.0,PRTY,Consumer discretionary
+3/31/2019,513116.0,PRTY,Consumer discretionary
+12/31/2018,805634.0,PRTY,Consumer discretionary
+9/30/2018,553046.0,PRTY,Consumer discretionary
+6/30/2018,561011.0,PRTY,Consumer discretionary
+3/31/2018,507824.0,PRTY,Consumer discretionary
+12/31/2017,789583.0,PRTY,Consumer discretionary
+9/30/2017,560109.0,PRTY,Consumer discretionary
+6/30/2017,544878.0,PRTY,Consumer discretionary
+3/31/2017,476999.0,PRTY,Consumer discretionary
+12/31/2016,749288.0,PRTY,Consumer discretionary
+9/30/2016,556950.0,PRTY,Consumer discretionary
+6/30/2016,519413.0,PRTY,Consumer discretionary
+3/31/2016,457740.0,PRTY,Consumer discretionary
+12/31/2015,781501.0,PRTY,Consumer discretionary
+9/30/2015,555407.0,PRTY,Consumer discretionary
+6/30/2015,495520.0,PRTY,Consumer discretionary
+3/31/2015,462105.0,PRTY,Consumer discretionary
+6/30/2020,59685000.0,AAPL,Information technology
+3/31/2020,58313000.0,AAPL,Information technology
+12/31/2019,91819000.0,AAPL,Information technology
+9/30/2019,64040000.0,AAPL,Information technology
+6/30/2019,,AAPL,Information technology
+3/31/2019,,AAPL,Information technology
+12/31/2018,84310000.0,AAPL,Information technology
+9/30/2018,62900000.0,AAPL,Information technology
+6/30/2018,53265000.0,AAPL,Information technology
+3/31/2018,61137000.0,AAPL,Information technology
+12/31/2017,,AAPL,Information technology
+9/30/2017,,AAPL,Information technology
+6/30/2017,,AAPL,Information technology
+3/31/2017,,AAPL,Information technology
+12/31/2016,78351000.0,AAPL,Information technology
+9/30/2016,46852000.0,AAPL,Information technology
+6/30/2016,42358000.0,AAPL,Information technology
+3/31/2016,50557000.0,AAPL,Information technology
+12/31/2015,75872000.0,AAPL,Information technology
+9/30/2015,51501000.0,AAPL,Information technology
+6/30/2015,49605000.0,AAPL,Information technology
+3/31/2015,58010000.0,AAPL,Information technology
+4/30/2020,11983000.0,CSCO,Information technology
+1/31/2020,12005000.0,CSCO,Information technology
+10/31/2019,13159000.0,CSCO,Information technology
+7/31/2019,13428000.0,CSCO,Information technology
+4/30/2019,12958000.0,CSCO,Information technology
+1/31/2019,12446000.0,CSCO,Information technology
+10/31/2018,13072000.0,CSCO,Information technology
+7/31/2018,12844000.0,CSCO,Information technology
+4/30/2018,12463000.0,CSCO,Information technology
+1/31/2018,11887000.0,CSCO,Information technology
+10/31/2017,12136000.0,CSCO,Information technology
+7/31/2017,12133000.0,CSCO,Information technology
+4/30/2017,11940000.0,CSCO,Information technology
+1/31/2017,11580000.0,CSCO,Information technology
+10/31/2016,12352000.0,CSCO,Information technology
+7/31/2016,12638000.0,CSCO,Information technology
+4/30/2016,12000000.0,CSCO,Information technology
+1/31/2016,11927000.0,CSCO,Information technology
+10/31/2015,12682000.0,CSCO,Information technology
+7/31/2015,12843000.0,CSCO,Information technology
+4/30/2015,12137000.0,CSCO,Information technology
+1/31/2015,11936000.0,CSCO,Information technology
+6/30/2020,19728000.0,INTC,Information technology
+3/31/2020,19828000.0,INTC,Information technology
+12/31/2019,20209000.0,INTC,Information technology
+9/30/2019,19190000.0,INTC,Information technology
+6/30/2019,16505000.0,INTC,Information technology
+3/31/2019,16061000.0,INTC,Information technology
+12/31/2018,18657000.0,INTC,Information technology
+9/30/2018,19163000.0,INTC,Information technology
+6/30/2018,16962000.0,INTC,Information technology
+3/31/2018,16066000.0,INTC,Information technology
+12/31/2017,17053000.0,INTC,Information technology
+9/30/2017,16149000.0,INTC,Information technology
+6/30/2017,14763000.0,INTC,Information technology
+3/31/2017,14796000.0,INTC,Information technology
+12/31/2016,16374000.0,INTC,Information technology
+9/30/2016,15778000.0,INTC,Information technology
+6/30/2016,13533000.0,INTC,Information technology
+3/31/2016,13702000.0,INTC,Information technology
+12/31/2015,14914000.0,INTC,Information technology
+9/30/2015,14465000.0,INTC,Information technology
+6/30/2015,13195000.0,INTC,Information technology
+3/31/2015,12781000.0,INTC,Information technology
+5/31/2020,10439000.0,ORCL,Information technology
+2/29/2020,9796000.0,ORCL,Information technology
+11/30/2019,9614000.0,ORCL,Information technology
+8/31/2019,9218000.0,ORCL,Information technology
+5/31/2019,11137000.0,ORCL,Information technology
+2/28/2019,9614000.0,ORCL,Information technology
+11/30/2018,9562000.0,ORCL,Information technology
+8/31/2018,9193000.0,ORCL,Information technology
+5/31/2018,11252000.0,ORCL,Information technology
+2/28/2018,9771000.0,ORCL,Information technology
+11/30/2017,9621000.0,ORCL,Information technology
+8/31/2017,9187000.0,ORCL,Information technology
+5/31/2017,10893000.0,ORCL,Information technology
+2/28/2017,9205000.0,ORCL,Information technology
+11/30/2016,9035000.0,ORCL,Information technology
+8/31/2016,8595000.0,ORCL,Information technology
+5/31/2016,10594000.0,ORCL,Information technology
+2/29/2016,9012000.0,ORCL,Information technology
+11/30/2015,8993000.0,ORCL,Information technology
+8/31/2015,8448000.0,ORCL,Information technology
+5/31/2015,10706000.0,ORCL,Information technology
+2/28/2015,9327000.0,ORCL,Information technology
+6/30/2020,30447000.0,VZ,Communication services
+3/31/2020,31610000.0,VZ,Communication services
+12/31/2019,34775000.0,VZ,Communication services
+9/30/2019,32894000.0,VZ,Communication services
+6/30/2019,32071000.0,VZ,Communication services
+3/31/2019,32128000.0,VZ,Communication services
+12/31/2018,34281000.0,VZ,Communication services
+9/30/2018,32607000.0,VZ,Communication services
+6/30/2018,32203000.0,VZ,Communication services
+3/31/2018,31772000.0,VZ,Communication services
+12/31/2017,33955000.0,VZ,Communication services
+9/30/2017,31717000.0,VZ,Communication services
+6/30/2017,30548000.0,VZ,Communication services
+3/31/2017,29814000.0,VZ,Communication services
+12/31/2016,32340000.0,VZ,Communication services
+9/30/2016,30937000.0,VZ,Communication services
+6/30/2016,30532000.0,VZ,Communication services
+3/31/2016,32171000.0,VZ,Communication services
+12/31/2015,34254000.0,VZ,Communication services
+9/30/2015,33158000.0,VZ,Communication services
+6/30/2015,32224000.0,VZ,Communication services
+3/31/2015,31984000.0,VZ,Communication services
+6/30/2020,11779000.0,DIS,Communication services
+3/31/2020,18009000.0,DIS,Communication services
+12/31/2019,20858000.0,DIS,Communication services
+9/30/2019,19100000.0,DIS,Communication services
+6/30/2019,20245000.0,DIS,Communication services
+3/31/2019,14922000.0,DIS,Communication services
+12/31/2018,15303000.0,DIS,Communication services
+9/30/2018,14307000.0,DIS,Communication services
+6/30/2018,15228000.0,DIS,Communication services
+3/31/2018,14548000.0,DIS,Communication services
+12/31/2017,15351000.0,DIS,Communication services
+9/30/2017,12779000.0,DIS,Communication services
+6/30/2017,14238000.0,DIS,Communication services
+3/31/2017,13336000.0,DIS,Communication services
+12/31/2016,14784000.0,DIS,Communication services
+9/30/2016,13142000.0,DIS,Communication services
+6/30/2016,14277000.0,DIS,Communication services
+3/31/2016,12969000.0,DIS,Communication services
+12/31/2015,15244000.0,DIS,Communication services
+9/30/2015,13512000.0,DIS,Communication services
+6/30/2015,13101000.0,DIS,Communication services
+3/31/2015,12461000.0,DIS,Communication services
+6/30/2020,23715000.0,CMCSA,Communication services
+3/31/2020,26609000.0,CMCSA,Communication services
+12/31/2019,28398000.0,CMCSA,Communication services
+9/30/2019,26827000.0,CMCSA,Communication services
+6/30/2019,26858000.0,CMCSA,Communication services
+3/31/2019,26859000.0,CMCSA,Communication services
+12/31/2018,27846000.0,CMCSA,Communication services
+9/30/2018,22135000.0,CMCSA,Communication services
+6/30/2018,21735000.0,CMCSA,Communication services
+3/31/2018,22791000.0,CMCSA,Communication services
+12/31/2017,21915000.0,CMCSA,Communication services
+9/30/2017,20983000.0,CMCSA,Communication services
+6/30/2017,21165000.0,CMCSA,Communication services
+3/31/2017,20463000.0,CMCSA,Communication services
+12/31/2016,21025000.0,CMCSA,Communication services
+9/30/2016,21319000.0,CMCSA,Communication services
+6/30/2016,19269000.0,CMCSA,Communication services
+3/31/2016,18790000.0,CMCSA,Communication services
+12/31/2015,19245000.0,CMCSA,Communication services
+9/30/2015,18669000.0,CMCSA,Communication services
+6/30/2015,18743000.0,CMCSA,Communication services
+3/31/2015,17853000.0,CMCSA,Communication services
+6/30/2020,213665.0,RDFN,Real estate
+3/31/2020,190995.0,RDFN,Real estate
+12/31/2019,233191.0,RDFN,Real estate
+9/30/2019,238683.0,RDFN,Real estate
+6/30/2019,197780.0,RDFN,Real estate
+3/31/2019,110141.0,RDFN,Real estate
+12/31/2018,124129.0,RDFN,Real estate
+9/30/2018,140255.0,RDFN,Real estate
+6/30/2018,142642.0,RDFN,Real estate
+3/31/2018,79893.0,RDFN,Real estate
+12/31/2017,95754.0,RDFN,Real estate
+9/30/2017,109479.0,RDFN,Real estate
+6/30/2017,104935.0,RDFN,Real estate
+3/31/2017,59868.0,RDFN,Real estate
+12/31/2016,66782.0,RDFN,Real estate
+9/30/2016,81064.0,RDFN,Real estate
+6/30/2016,77714.0,RDFN,Real estate
+3/31/2016,41636.0,RDFN,Real estate
+6/30/2020,1913000.0,AMT,Real estate
+3/31/2020,1993100.0,AMT,Real estate
+12/31/2019,1923700.0,AMT,Real estate
+9/30/2019,1953600.0,AMT,Real estate
+6/30/2019,1889600.0,AMT,Real estate
+3/31/2019,1813400.0,AMT,Real estate
+12/31/2018,2131900.0,AMT,Real estate
+9/30/2018,1785500.0,AMT,Real estate
+6/30/2018,1780900.0,AMT,Real estate
+3/31/2018,1741800.0,AMT,Real estate
+12/31/2017,1704462.0,AMT,Real estate
+9/30/2017,1680766.0,AMT,Real estate
+6/30/2017,1662434.0,AMT,Real estate
+3/31/2017,1616238.0,AMT,Real estate
+12/31/2016,1539549.0,AMT,Real estate
+9/30/2016,1514845.0,AMT,Real estate
+6/30/2016,1442227.0,AMT,Real estate
+3/31/2016,1289047.0,AMT,Real estate
+12/31/2015,1280041.0,AMT,Real estate
+9/30/2015,1237910.0,AMT,Real estate
+6/30/2015,1174375.0,AMT,Real estate
+3/31/2015,1079190.0,AMT,Real estate
+3/31/2020,1353360.0,SPG,Real estate
+12/31/2019,1488615.0,SPG,Real estate
+9/30/2019,1416554.0,SPG,Real estate
+6/30/2019,1397186.0,SPG,Real estate
+3/31/2019,1452834.0,SPG,Real estate
+12/31/2018,1460742.0,SPG,Real estate
+9/30/2018,1409005.0,SPG,Real estate
+6/30/2018,1388358.0,SPG,Real estate
+3/31/2018,1399814.0,SPG,Real estate
+12/31/2017,1427692.0,SPG,Real estate
+9/30/2017,1403638.0,SPG,Real estate
+6/30/2017,1361548.0,SPG,Real estate
+3/31/2017,1345763.0,SPG,Real estate
+12/31/2016,1425966.0,SPG,Real estate
+9/30/2016,1357168.0,SPG,Real estate
+6/30/2016,1315380.0,SPG,Real estate
+3/31/2016,1336715.0,SPG,Real estate
+12/31/2015,1380621.0,SPG,Real estate
+9/30/2015,1320137.0,SPG,Real estate
+6/30/2015,1349110.0,SPG,Real estate
+3/31/2015,1216235.0,SPG,Real estate
+6/30/2020,709285.0,PSA,Real estate
+3/31/2020,716082.0,PSA,Real estate
+12/31/2019,717499.0,PSA,Real estate
+9/30/2019,729336.0,PSA,Real estate
+6/30/2019,710950.0,PSA,Real estate
+3/31/2019,689038.0,PSA,Real estate
+12/31/2018,692460.0,PSA,Real estate
+9/30/2018,706368.0,PSA,Real estate
+6/30/2018,685528.0,PSA,Real estate
+3/31/2018,669924.0,PSA,Real estate
+12/31/2017,672308.0,PSA,Real estate
+9/30/2017,686361.0,PSA,Real estate
+6/30/2017,664312.0,PSA,Real estate
+3/31/2017,645547.0,PSA,Real estate
+12/31/2016,651427.0,PSA,Real estate
+9/30/2016,663148.0,PSA,Real estate
+6/30/2016,634188.0,PSA,Real estate
+3/31/2016,611786.0,PSA,Real estate
+12/31/2015,609330.0,PSA,Real estate
+9/30/2015,618872.0,PSA,Real estate
+6/30/2015,592631.0,PSA,Real estate
+3/31/2015,569394.0,PSA,Real estate
+6/30/2020,18336000.0,JNJ,Health care
+3/31/2020,20691000.0,JNJ,Health care
+12/31/2019,20747000.0,JNJ,Health care
+9/30/2019,20729000.0,JNJ,Health care
+6/30/2019,20562000.0,JNJ,Health care
+3/31/2019,20021000.0,JNJ,Health care
+12/31/2018,20394000.0,JNJ,Health care
+9/30/2018,20348000.0,JNJ,Health care
+6/30/2018,20830000.0,JNJ,Health care
+3/31/2018,20009000.0,JNJ,Health care
+12/31/2017,20195000.0,JNJ,Health care
+9/30/2017,19650000.0,JNJ,Health care
+6/30/2017,18839000.0,JNJ,Health care
+3/31/2017,17766000.0,JNJ,Health care
+12/31/2016,18106000.0,JNJ,Health care
+9/30/2016,17820000.0,JNJ,Health care
+6/30/2016,18482000.0,JNJ,Health care
+3/31/2016,17482000.0,JNJ,Health care
+12/31/2015,17811000.0,JNJ,Health care
+9/30/2015,17102000.0,JNJ,Health care
+6/30/2015,17787000.0,JNJ,Health care
+3/31/2015,17374000.0,JNJ,Health care
+6/30/2020,11801000.0,PFE,Health care
+3/31/2020,12028000.0,PFE,Health care
+12/31/2019,12688000.0,PFE,Health care
+9/30/2019,12680000.0,PFE,Health care
+6/30/2019,13264000.0,PFE,Health care
+3/31/2019,13118000.0,PFE,Health care
+12/31/2018,13977000.0,PFE,Health care
+9/30/2018,13298000.0,PFE,Health care
+6/30/2018,13466000.0,PFE,Health care
+3/31/2018,12906000.0,PFE,Health care
+12/31/2017,13703000.0,PFE,Health care
+9/30/2017,13168000.0,PFE,Health care
+6/30/2017,12896000.0,PFE,Health care
+3/31/2017,12779000.0,PFE,Health care
+12/31/2016,13628000.0,PFE,Health care
+9/30/2016,13045000.0,PFE,Health care
+6/30/2016,13147000.0,PFE,Health care
+3/31/2016,13005000.0,PFE,Health care
+12/31/2015,14047000.0,PFE,Health care
+9/30/2015,12087000.0,PFE,Health care
+6/30/2015,11853000.0,PFE,Health care
+3/31/2015,10864000.0,PFE,Health care
+6/30/2020,55679000.0,MCK,Health care
+3/31/2020,58535000.0,MCK,Health care
+12/31/2019,59172000.0,MCK,Health care
+9/30/2019,57616000.0,MCK,Health care
+6/30/2019,55728000.0,MCK,Health care
+3/31/2019,52429000.0,MCK,Health care
+12/31/2018,56208000.0,MCK,Health care
+9/30/2018,53075000.0,MCK,Health care
+6/30/2018,52607000.0,MCK,Health care
+3/31/2018,51628000.0,MCK,Health care
+12/31/2017,53617000.0,MCK,Health care
+9/30/2017,52061000.0,MCK,Health care
+6/30/2017,51051000.0,MCK,Health care
+3/31/2017,48713000.0,MCK,Health care
+12/31/2016,50130000.0,MCK,Health care
+9/30/2016,49957000.0,MCK,Health care
+6/30/2016,49733000.0,MCK,Health care
+3/31/2016,46678000.0,MCK,Health care
+12/31/2015,47899000.0,MCK,Health care
+9/30/2015,48761000.0,MCK,Health care
+6/30/2015,47546000.0,MCK,Health care
+3/31/2015,43224000.0,MCK,Health care
+6/30/2020,7328000.0,ABT,Health care
+3/31/2020,7726000.0,ABT,Health care
+12/31/2019,8314000.0,ABT,Health care
+9/30/2019,8076000.0,ABT,Health care
+6/30/2019,7979000.0,ABT,Health care
+3/31/2019,7535000.0,ABT,Health care
+12/31/2018,7765000.0,ABT,Health care
+9/30/2018,7656000.0,ABT,Health care
+6/30/2018,7767000.0,ABT,Health care
+3/31/2018,7390000.0,ABT,Health care
+12/31/2017,7589000.0,ABT,Health care
+9/30/2017,6829000.0,ABT,Health care
+6/30/2017,6637000.0,ABT,Health care
+3/31/2017,6335000.0,ABT,Health care
+12/31/2016,5333000.0,ABT,Health care
+9/30/2016,5302000.0,ABT,Health care
+6/30/2016,5333000.0,ABT,Health care
+3/31/2016,4885000.0,ABT,Health care
+12/31/2015,5188000.0,ABT,Health care
+9/30/2015,5150000.0,ABT,Health care
+6/30/2015,5170000.0,ABT,Health care
+3/31/2015,4897000.0,ABT,Health care
+6/30/2020,7150000.0,KO,Consumer staples
+3/31/2020,8601000.0,KO,Consumer staples
+12/31/2019,9068000.0,KO,Consumer staples
+9/30/2019,9507000.0,KO,Consumer staples
+6/30/2019,9997000.0,KO,Consumer staples
+3/31/2019,8020000.0,KO,Consumer staples
+12/31/2018,7058000.0,KO,Consumer staples
+9/30/2018,8245000.0,KO,Consumer staples
+6/30/2018,8927000.0,KO,Consumer staples
+3/31/2018,7626000.0,KO,Consumer staples
+12/31/2017,7512000.0,KO,Consumer staples
+9/30/2017,9078000.0,KO,Consumer staples
+6/30/2017,9702000.0,KO,Consumer staples
+3/31/2017,9118000.0,KO,Consumer staples
+12/31/2016,9409000.0,KO,Consumer staples
+9/30/2016,10633000.0,KO,Consumer staples
+6/30/2016,11539000.0,KO,Consumer staples
+3/31/2016,10282000.0,KO,Consumer staples
+12/31/2015,10000000.0,KO,Consumer staples
+9/30/2015,11427000.0,KO,Consumer staples
+6/30/2015,12156000.0,KO,Consumer staples
+3/31/2015,10711000.0,KO,Consumer staples
+6/30/2020,3897000.0,CL,Consumer staples
+3/31/2020,4097000.0,CL,Consumer staples
+12/31/2019,4015000.0,CL,Consumer staples
+9/30/2019,3928000.0,CL,Consumer staples
+6/30/2019,3866000.0,CL,Consumer staples
+3/31/2019,3884000.0,CL,Consumer staples
+12/31/2018,3811000.0,CL,Consumer staples
+9/30/2018,3845000.0,CL,Consumer staples
+6/30/2018,3886000.0,CL,Consumer staples
+3/31/2018,4002000.0,CL,Consumer staples
+12/31/2017,3892000.0,CL,Consumer staples
+9/30/2017,3974000.0,CL,Consumer staples
+6/30/2017,3826000.0,CL,Consumer staples
+3/31/2017,3762000.0,CL,Consumer staples
+12/31/2016,3721000.0,CL,Consumer staples
+9/30/2016,3867000.0,CL,Consumer staples
+6/30/2016,3845000.0,CL,Consumer staples
+3/31/2016,3762000.0,CL,Consumer staples
+12/31/2015,3899000.0,CL,Consumer staples
+9/30/2015,3999000.0,CL,Consumer staples
+6/30/2015,4066000.0,CL,Consumer staples
+3/31/2015,4070000.0,CL,Consumer staples
+6/30/2020,17698000.0,PG,Consumer staples
+3/31/2020,17214000.0,PG,Consumer staples
+12/31/2019,18240000.0,PG,Consumer staples
+9/30/2019,17798000.0,PG,Consumer staples
+6/30/2019,17094000.0,PG,Consumer staples
+3/31/2019,16462000.0,PG,Consumer staples
+12/31/2018,17438000.0,PG,Consumer staples
+9/30/2018,16690000.0,PG,Consumer staples
+6/30/2018,16503000.0,PG,Consumer staples
+3/31/2018,16281000.0,PG,Consumer staples
+12/31/2017,17395000.0,PG,Consumer staples
+9/30/2017,16653000.0,PG,Consumer staples
+6/30/2017,16079000.0,PG,Consumer staples
+3/31/2017,15605000.0,PG,Consumer staples
+12/31/2016,16856000.0,PG,Consumer staples
+9/30/2016,16518000.0,PG,Consumer staples
+6/30/2016,16102000.0,PG,Consumer staples
+3/31/2016,15755000.0,PG,Consumer staples
+12/31/2015,16915000.0,PG,Consumer staples
+9/30/2015,16527000.0,PG,Consumer staples
+6/30/2015,17790000.0,PG,Consumer staples
+3/31/2015,18142000.0,PG,Consumer staples
+6/30/2020,2180000.0,WMT,Consumer staples
+3/31/2020,2329000.0,WMT,Consumer staples
+12/31/2019,2314000.0,WMT,Consumer staples
+9/30/2019,2441000.0,WMT,Consumer staples
+6/30/2019,2443000.0,WMT,Consumer staples
+3/31/2019,2298000.0,WMT,Consumer staples
+12/31/2018,2379000.0,WMT,Consumer staples
+9/30/2018,2373000.0,WMT,Consumer staples
+6/30/2018,2313000.0,WMT,Consumer staples
+3/31/2018,2184000.0,WMT,Consumer staples
+12/31/2017,2263000.0,WMT,Consumer staples
+9/30/2017,2302000.0,WMT,Consumer staples
+6/30/2017,2290000.0,WMT,Consumer staples
+3/31/2017,2166000.0,WMT,Consumer staples
+12/31/2016,2147000.0,WMT,Consumer staples
+9/30/2016,2216000.0,WMT,Consumer staples
+6/30/2016,2130000.0,WMT,Consumer staples
+3/31/2016,1993000.0,WMT,Consumer staples
+12/31/2015,2027000.0,WMT,Consumer staples
+9/30/2015,2095000.0,WMT,Consumer staples
+6/30/2015,2163000.0,WMT,Consumer staples
+3/31/2015,1946000.0,WMT,Consumer staples
+6/30/2020,4204000.0,NEE,Utilities
+3/31/2020,4613000.0,NEE,Utilities
+12/31/2019,4588000.0,NEE,Utilities
+9/30/2019,5572000.0,NEE,Utilities
+6/30/2019,4970000.0,NEE,Utilities
+3/31/2019,4075000.0,NEE,Utilities
+12/31/2018,4376000.0,NEE,Utilities
+9/30/2018,4418000.0,NEE,Utilities
+6/30/2018,4069000.0,NEE,Utilities
+3/31/2018,3863000.0,NEE,Utilities
+12/31/2017,4010000.0,NEE,Utilities
+9/30/2017,4808000.0,NEE,Utilities
+6/30/2017,4404000.0,NEE,Utilities
+3/31/2017,3972000.0,NEE,Utilities
+12/31/2016,3698000.0,NEE,Utilities
+9/30/2016,4805000.0,NEE,Utilities
+6/30/2016,3817000.0,NEE,Utilities
+3/31/2016,3835000.0,NEE,Utilities
+12/31/2015,4069000.0,NEE,Utilities
+9/30/2015,4954000.0,NEE,Utilities
+6/30/2015,4358000.0,NEE,Utilities
+3/31/2015,4104000.0,NEE,Utilities
+3/31/2020,5949000.0,DUK,Utilities
+12/31/2019,6103000.0,DUK,Utilities
+9/30/2019,6940000.0,DUK,Utilities
+6/30/2019,5873000.0,DUK,Utilities
+3/31/2019,6163000.0,DUK,Utilities
+12/31/2018,6115000.0,DUK,Utilities
+9/30/2018,6628000.0,DUK,Utilities
+6/30/2018,5643000.0,DUK,Utilities
+3/31/2018,6135000.0,DUK,Utilities
+12/31/2017,5799000.0,DUK,Utilities
+9/30/2017,6482000.0,DUK,Utilities
+6/30/2017,5555000.0,DUK,Utilities
+3/31/2017,5729000.0,DUK,Utilities
+12/31/2016,4816000.0,DUK,Utilities
+9/30/2016,6821000.0,DUK,Utilities
+6/30/2016,5484000.0,DUK,Utilities
+3/31/2016,5622000.0,DUK,Utilities
+12/31/2015,5322000.0,DUK,Utilities
+9/30/2015,6483000.0,DUK,Utilities
+6/30/2015,5589000.0,DUK,Utilities
+3/31/2015,6065000.0,DUK,Utilities
+6/30/2020,7322000.0,EXC,Utilities
+3/31/2020,8747000.0,EXC,Utilities
+12/31/2019,8342000.0,EXC,Utilities
+9/30/2019,8929000.0,EXC,Utilities
+6/30/2019,7689000.0,EXC,Utilities
+3/31/2019,9477000.0,EXC,Utilities
+12/31/2018,8815000.0,EXC,Utilities
+9/30/2018,9403000.0,EXC,Utilities
+6/30/2018,8076000.0,EXC,Utilities
+3/31/2018,9693000.0,EXC,Utilities
+12/31/2017,8382000.0,EXC,Utilities
+9/30/2017,8769000.0,EXC,Utilities
+6/30/2017,7623000.0,EXC,Utilities
+3/31/2017,8757000.0,EXC,Utilities
+12/31/2016,7874000.0,EXC,Utilities
+9/30/2016,9002000.0,EXC,Utilities
+6/30/2016,6910000.0,EXC,Utilities
+3/31/2016,7573000.0,EXC,Utilities
+12/31/2015,6701000.0,EXC,Utilities
+9/30/2015,7401000.0,EXC,Utilities
+6/30/2015,6514000.0,EXC,Utilities
+3/31/2015,8830000.0,EXC,Utilities
+6/30/2020,3585000.0,D,Utilities
+3/31/2020,4496000.0,D,Utilities
+12/31/2019,4475000.0,D,Utilities
+9/30/2019,4269000.0,D,Utilities
+6/30/2019,3970000.0,D,Utilities
+3/31/2019,3858000.0,D,Utilities
+12/31/2018,3361000.0,D,Utilities
+9/30/2018,3451000.0,D,Utilities
+6/30/2018,3088000.0,D,Utilities
+3/31/2018,3466000.0,D,Utilities
+12/31/2017,3210000.0,D,Utilities
+9/30/2017,3179000.0,D,Utilities
+6/30/2017,2813000.0,D,Utilities
+3/31/2017,3384000.0,D,Utilities
+12/31/2016,3086000.0,D,Utilities
+9/30/2016,3132000.0,D,Utilities
+6/30/2016,2598000.0,D,Utilities
+3/31/2016,2921000.0,D,Utilities
+12/31/2015,2556000.0,D,Utilities
+9/30/2015,2971000.0,D,Utilities
+6/30/2015,2747000.0,D,Utilities
+3/31/2015,3409000.0,D,Utilities
