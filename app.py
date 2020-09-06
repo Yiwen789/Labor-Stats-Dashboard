@@ -976,7 +976,11 @@ def update_table(selected_month, selected_year, clicked_state): #selected_month 
 
 		file_name_lbf = state_name + '_lbf.csv'
 		file_name_unemp = state_name + '_unemp.csv'
-		df_lbf = pd.read_csv('data\metro\{state_name}_lbf.csv'.format(state_name = state_name))
+
+		url = 'https://github.com/Yiwen789/Labor-Stats-Dashboard/blob/master/data/metro/{state_name}_lbf.csv?raw=true'.format(state_name = state_name)
+		df_lbf = pd.read_csv(url)
+
+		url = 'https://github.com/Yiwen789/Labor-Stats-Dashboard/blob/master/data/metro/{state_name}_unemp.csv?raw=true'.format(state_name = state_name)
 		df_unemp = pd.read_csv('data\metro\{state_name}_unemp.csv'.format(state_name = state_name))
 
 		df_metro = pd.DataFrame({'Area': df_lbf.iloc[:, 0], 'Civilian Labor Force':df_lbf[month_code], 'Unemployed': df_unemp[month_code], 'Unemployment Rate': df_unemp[month_code]/df_lbf[month_code]})
@@ -984,8 +988,8 @@ def update_table(selected_month, selected_year, clicked_state): #selected_month 
 
 		return title, columns, df_metro.to_dict('records')
 #==============================================================================================================================================================================
-df_cpi = pd.read_csv('data\cpi\cpi_t01.csv')
-#df_cpi2 = pd.read_csv('cpi_t01.csv')
+df_cpi = pd.read_csv('https://github.com/Yiwen789/Labor-Stats-Dashboard/blob/master/data/cpi/cpi_t01.csv?raw=true')
+
 def build_cpi():
 	return html.Div([
 				html.Div([
@@ -1748,7 +1752,7 @@ def build_ui():
 	])
 
 
-df_ui = pd.read_csv('data\\ui_claims\\ui.csv')
+df_ui = pd.read_csv('https://github.com/Yiwen789/Labor-Stats-Dashboard/blob/master/data/ui_claims/ui.csv?raw=true')
 df_ui = df_ui.set_index('Filed week ended')
 df_ui.index = pd.to_datetime(df_ui.index)
 
@@ -1991,7 +1995,7 @@ def build_spending():
 				''')
 			])
 		])
-df_spending = pd.read_csv('data\consumer_spending\consumer_spending_cleaned.csv')
+df_spending = pd.read_csv('https://github.com/Yiwen789/Labor-Stats-Dashboard/blob/master/data/consumer_spending/consumer_spending_cleaned.csv?raw=true')
 df_spending['date'] = pd.to_datetime(df_spending['date'])
 df_spending = df_spending.set_index('date')
 df_spending = df_spending.apply(pd.to_numeric)
@@ -2084,7 +2088,7 @@ def build_spending_graphs():
 fig = build_spending_graphs()
 
 #==============================================================================================================================================================================
-df_jolts = pd.read_csv("data\jolts\jolts_05mb.csv")
+df_jolts = pd.read_csv("https://github.com/Yiwen789/Labor-Stats-Dashboard/blob/master/data/jolts/jolts_05mb.csv?raw=true")
 def build_jolts():
 	return html.Div([
 		html.Div([
@@ -2243,7 +2247,8 @@ def update_stock(sector_types):
 			colors[sec] = 'rgba(160, 160, 160, 0.2)'
 	for sec in all_sectors:
 		file_name = 'df_{sec_short}.pkl'.format(sec_short = dict_sector_shortnames[sec])
-		df = pd.read_pickle('data\stock_revenue\{file_name}'.format(file_name = file_name))
+		url = 'https://raw.githubusercontent.com/Yiwen789/Labor-Stats-Dashboard/master/data/stock_revenue/{file_name}'.format(file_name = file_name)
+		df = pd.read_pickle(file_name)
 		fig.add_trace(go.Scatter(
 		    x = df.groupby('Date')['standardized_open'].mean().index,
 		    y = df.groupby('Date')['standardized_open'].mean(),
